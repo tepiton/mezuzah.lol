@@ -4,7 +4,7 @@ title: Installing a mezuzah
 
 # {{ title }}
 
-The mezuzah goes on the left doorpost as you enter the house.
+The mezuzah goes on the right doorpost as you enter the house.
 
 
 ## One
@@ -23,7 +23,7 @@ Blessed are You, Adonai our God, sovereign of space and time, who sanctified us 
 
 ## Two
 
-Put the mezuzah about two thirds of the way up the left doorpost, leaning toward the house interior.
+Put the mezuzah about two thirds of the way up the right doorpost, leaning toward the house interior.
 
 
 ## Three
