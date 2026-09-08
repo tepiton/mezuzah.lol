@@ -1,13 +1,13 @@
 export default {
-  title: "Pamphlet",
+  title: "Installing a mezuzah",
   subtitle: "",
-  url: "https://orobia.lol/",
+  url: "https://mezuzah.lol/",
   language: "en",
-  description: "A description of this literary work",
+  description: "How to install a mezuzah",
   author: {
-    name: "Your Name",
-    email: "you@example.com",
-    url: "https://orobia.lol/"
+    name: "",
+    email: "",
+    url: "https://mezuzah.lol/"
   },
   image: "",
 }
