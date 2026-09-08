@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-base-literary",
+  "name": "mezuzah.lol",
   "version": "1.0.0",
-  "description": "An Eleventy base for literary and chaptered sites",
+  "description": "A short mezuzah howto",
   "type": "module",
   "scripts": {
     "build": "npx @11ty/eleventy",
