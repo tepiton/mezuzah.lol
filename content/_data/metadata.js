@@ -5,8 +5,8 @@ export default {
   language: "en",
   description: "How to install a mezuzah",
   author: {
-    name: "",
-    email: "",
+    name: "Philip Borenstein",
+    email: "pborenstein@gmail.com",
     url: "https://mezuzah.lol/"
   },
   image: "",
